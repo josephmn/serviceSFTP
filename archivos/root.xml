@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sftp>
+    <host>10.0.0.55</host>
+    <port>22</port>
+	<username>user</username>
+	<password>pass</password>
+	<directoryPath>C:\upload\</directoryPath>
+	<filePaths>*.txt</filePaths>
+	<NamedestinationDirectory>loaded</NamedestinationDirectory>
+	<remoteFilePath>/QAS/</remoteFilePath>
+	<privateKeyFilePath>C:\SFTPservice\private.ssh</privateKeyFilePath>
+	<logFilePath>C:\SFTPservice\log\</logFilePath>
+	<ambiente>QAS</ambiente>
+</sftp>

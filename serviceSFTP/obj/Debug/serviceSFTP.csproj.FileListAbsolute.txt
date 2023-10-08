@@ -1,0 +1,176 @@
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\serviceSFTP.exe.config
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\serviceSFTP.exe
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\serviceSFTP.pdb
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Buffers.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.IO.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Memory.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Json.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.ValueTuple.dll
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.WindowsServices.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\Renci.SshNet.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Buffers.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Memory.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Json.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\bin\Debug\System.ValueTuple.xml
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.csproj.AssemblyReference.cache
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.csproj.CoreCompileInputs.cache
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.csproj.CopyComplete
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.exe
+C:\Users\jmagallanes\Desktop\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.pdb
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\serviceSFTP.exe.config
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\serviceSFTP.exe
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\serviceSFTP.pdb
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Renci.SshNet.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Buffers.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.IO.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Memory.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Numerics.Vectors.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Encodings.Web.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Json.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.ValueTuple.dll
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Hosting.WindowsServices.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\Renci.SshNet.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Buffers.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Memory.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Numerics.Vectors.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Encodings.Web.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Text.Json.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\bin\Debug\System.ValueTuple.xml
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.csproj.AssemblyReference.cache
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.csproj.CoreCompileInputs.cache
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.csproj.CopyComplete
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.exe
+D:\CURSOS\2023\C#\Joseph Magallanes\serviceSFTP\serviceSFTP\obj\Debug\serviceSFTP.pdb

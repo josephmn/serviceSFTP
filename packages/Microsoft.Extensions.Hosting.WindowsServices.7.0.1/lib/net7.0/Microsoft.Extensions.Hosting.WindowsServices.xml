@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Extensions.Hosting.WindowsServices</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceHelpers">
+            <summary>
+            Helper methods for Windows Services.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceHelpers.IsWindowsService">
+            <summary>
+            Check if the current process is hosted as a Windows Service.
+            </summary>
+            <returns><c>True</c> if the current process is hosted as a Windows Service, otherwise <c>false</c>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceLifetime.StopAsync(System.Threading.CancellationToken)">
+            <summary>
+            Called from <see cref="M:Microsoft.Extensions.Hosting.IHost.StopAsync(System.Threading.CancellationToken)"/> to stop the service if not already stopped, and wait for the service dispatcher to exit.
+            Once this method returns the service is stopped and the process can be terminated at any time.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceLifetime.OnStop">
+            <summary>
+            Executes when a Stop command is sent to the service by the Service Control Manager (SCM).
+            Triggers <see cref="P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopping"/> and waits for <see cref="P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopped"/>.
+            Shortly after this method returns, the Service will be marked as stopped in SCM and the process may exit at any point.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceLifetime.OnShutdown">
+            <summary>
+            Executes when a Shutdown command is sent to the service by the Service Control Manager (SCM).
+            Triggers <see cref="P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopping"/> and waits for <see cref="P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopped"/>.
+            Shortly after this method returns, the Service will be marked as stopped in SCM and the process may exit at any point.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Extensions.Hosting.WindowsServiceLifetimeHostBuilderExtensions">
+            <summary>
+            Extension methods for setting up WindowsServiceLifetime.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServiceLifetimeHostBuilderExtensions.UseWindowsService(Microsoft.Extensions.Hosting.IHostBuilder)">
+            <summary>
+            Sets the host lifetime to <see cref="T:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceLifetime"/> and enables logging to the event log with
+            the application name as the default source name.
+            </summary>
+            <remarks>
+            This is context aware and will only activate if it detects the process is running as a Windows Service.
+            </remarks>
+            <param name="hostBuilder">The <see cref="T:Microsoft.Extensions.Hosting.IHostBuilder"/> to operate on.</param>
+            <returns>The <paramref name="hostBuilder"/> instance for chaining.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServiceLifetimeHostBuilderExtensions.UseWindowsService(Microsoft.Extensions.Hosting.IHostBuilder,System.Action{Microsoft.Extensions.Hosting.WindowsServiceLifetimeOptions})">
+            <summary>
+            Sets the host lifetime to <see cref="T:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceLifetime"/> and enables logging to the event log with the application
+            name as the default source name.
+            </summary>
+            <remarks>
+            This is context aware and will only activate if it detects the process is running
+            as a Windows Service.
+            </remarks>
+            <param name="hostBuilder">The <see cref="T:Microsoft.Extensions.Hosting.IHostBuilder"/> to operate on.</param>
+            <param name="configure">An <see cref="T:System.Action`1"/> to configure the provided <see cref="T:Microsoft.Extensions.Hosting.WindowsServiceLifetimeOptions"/>.</param>
+            <returns>The <paramref name="hostBuilder"/> instance for chaining.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServiceLifetimeHostBuilderExtensions.AddWindowsService(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configures the lifetime of the <see cref="T:Microsoft.Extensions.Hosting.IHost"/> built from <paramref name="services"/> to
+            <see cref="T:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceLifetime"/> and enables logging to the event log with the application
+            name as the default source name.
+            </summary>
+            <remarks>
+            This is context aware and will only activate if it detects the process is running
+            as a Windows Service.
+            </remarks>
+            <param name="services">
+            The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/> used to build the <see cref="T:Microsoft.Extensions.Hosting.IHost"/>.
+            For example, <see cref="P:Microsoft.Extensions.Hosting.HostApplicationBuilder.Services"/> or the <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/> passed to the
+            <see cref="M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureServices(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceCollection})"/> callback.
+            </param>
+            <returns>The <paramref name="services"/> instance for chaining.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.WindowsServiceLifetimeHostBuilderExtensions.AddWindowsService(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.Hosting.WindowsServiceLifetimeOptions})">
+            <summary>
+            Configures the lifetime of the <see cref="T:Microsoft.Extensions.Hosting.IHost"/> built from <paramref name="services"/> to
+            <see cref="T:Microsoft.Extensions.Hosting.WindowsServices.WindowsServiceLifetime"/> and enables logging to the event log with the application name as the default source name.
+            </summary>
+            <remarks>
+            This is context aware and will only activate if it detects the process is running
+            as a Windows Service.
+            </remarks>
+            <param name="services">
+            The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/> used to build the <see cref="T:Microsoft.Extensions.Hosting.IHost"/>.
+            For example, <see cref="P:Microsoft.Extensions.Hosting.HostApplicationBuilder.Services"/> or the <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/> passed to the
+            <see cref="M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureServices(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceCollection})"/> callback.
+            </param>
+            <param name="configure">An <see cref="T:System.Action`1"/> to configure the provided <see cref="T:Microsoft.Extensions.Hosting.WindowsServiceLifetimeOptions"/>.</param>
+            <returns>The <paramref name="services"/> instance for chaining.</returns>
+        </member>
+        <member name="P:Microsoft.Extensions.Hosting.WindowsServiceLifetimeOptions.ServiceName">
+            <summary>
+            The name used to identify the service to the system.
+            </summary>
+        </member>
+        <member name="M:System.ThrowHelper.ThrowIfNull(System.Object,System.String)">
+            <summary>Throws an <see cref="T:System.ArgumentNullException"/> if <paramref name="argument"/> is null.</summary>
+            <param name="argument">The reference type argument to validate as non-null.</param>
+            <param name="paramName">The name of the parameter with which <paramref name="argument"/> corresponds.</param>
+        </member>
+    </members>
+</doc>
