@@ -54,7 +54,7 @@ La ruta recomendada que se usa en el proyecto es la siguiente: **C:\SFTPservice*
     **remoteFilePath ->** Directorio del SFTP donde se cargarán los archivos.  
   	**privateKeyFilePath ->** Ruta del archivos donde se encuentra el privateKey (.ssh no .ppk).  
     **logFilePath ->** Ruta en donde se guardaran los archivos log.  
-	**ambiente ->** Este puede ser QAS | DEV | TEST | PRD, recordar que el nombre se usara como ruta de directorio para almacenar los archivo, este se complementa con **directoryPath**. Ejemplo: C:\upload\QAS o C:\upload\PRD, dentro de esas carpetas se deben almacenar los archivo a cargar.  
+	**ambiente ->** Este puede ser QAS | DEV | TEST | PRD, recordar que el nombre se usara como ruta de directorio para almacenar los archivos, este se complementa con **directoryPath**. Ejemplo: C:\upload\QAS o C:\upload\PRD, dentro de esas carpetas se deben almacenar los archivo a cargar.  
 
     Recordar:
   	
