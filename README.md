@@ -7,7 +7,7 @@
 ![windowsServer3](https://img.shields.io/badge/windows_server_2019-success)
 ![OpenSSH](https://img.shields.io/badge/OpenSSH-important)
 ![xml](https://img.shields.io/badge/XML-important)
-![net](https://img.shields.io/badge/.NET_Framework-v4.0-important)
+![net](https://img.shields.io/badge/.NET_Framework-v4.7-important)
 ![ssh](https://img.shields.io/badge/SSH.NET-2020.0.2-important)
 
 # serviceSFTP (v1.0)
