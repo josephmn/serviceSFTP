@@ -10,7 +10,7 @@
 ![net](https://img.shields.io/badge/.NET_Framework-v4.7-important)
 ![ssh](https://img.shields.io/badge/SSH.NET-2020.0.2-important)
 
-# serviceSFTP (v1.0)
+# serviceSFTP
 
 Sincronizador para subir archivos a un SFTP, se tiene el servicio compilado en C#, se debe crear como servicio en Windows para que pueda ejecutarse en segundo plano.
 
